@@ -2,6 +2,7 @@
 
 A small script to scrape direct download links (ddls) of downloadable files from bhadoo google drive index.
 
+ORG Repo : https://github.com/sanjit-sinha/Bhadoo-Index-Scraper
 
 More about bhadoo Google Personal/Shared Drive Index : https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index
 
